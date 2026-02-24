@@ -1,0 +1,24 @@
+{
+  "name": "assignment-1-neel-sir-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay-Patel-cg/Assignment-1-neel-sir-Node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay-Patel-cg/Assignment-1-neel-sir-Node-js/issues"
+  },
+  "homepage": "https://github.com/Jay-Patel-cg/Assignment-1-neel-sir-Node-js#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
